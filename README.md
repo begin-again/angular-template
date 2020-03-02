@@ -1,3 +1,3 @@
-# typings
+# Angular Template
 
-throw way repo for a class
+Basic Angular 9 template
